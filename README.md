@@ -16,16 +16,16 @@
       <a href="https://github.com/find11570"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/74519181?v=4"/></a>
     </th>
     <th align="center" width="150px">
-      <a href="https://https://github.com/lee-JunR"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/68640939?v=4"/></a>
+      <a href="https://github.com/lee-JunR"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/68640939?v=4"/></a>
     </th>
     <th align="center" width="150px">
-      <a href="https://https://github.com/cheongwonyoung"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/86768006?v=4"/></a>
+      <a href="https://github.com/cheongwonyoung"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/86768006?v=4"/></a>
     </th>
     <th align="center" width="150px">
-      <a href="https://https://github.com/GaHee99"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/77230391?v=4"/></a>
+      <a href="https://github.com/GaHee99"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/77230391?v=4"/></a>
     </th>
     <th align="center" width="150px">
-      <a href="https://https://github.com/chuseok"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/56007762?v=4"/></a>
+      <a href="https://github.com/chuseok"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/56007762?v=4"/></a>
     </th>
   </tr>
   <tr>
@@ -36,16 +36,16 @@
       <a href="https://github.com/find11570"><strong>현수</strong></a>
     </td>
     <td align="center" width="150px">
-      <a href="https://https://github.com/lee-JunR"><strong>준렬</strong></a>
+      <a href="https://github.com/lee-JunR"><strong>준렬</strong></a>
     </td>
     <td align="center" width="150px">
-      <a href="https://https://github.com/cheongwonyoung"><strong>원영</strong></a>
+      <a href="https://github.com/cheongwonyoung"><strong>원영</strong></a>
     </td>
     <td align="center" width="150px">
-      <a href="https://https://github.com/GaHee99"><strong>가희</strong></a>
+      <a href="https://github.com/GaHee99"><strong>가희</strong></a>
     </td>
     <td align="center" width="150px">
-      <a href="https://https://github.com/chuseok"><strong>한솔</strong></a>
+      <a href="https://github.com/chuseok"><strong>한솔</strong></a>
     </td>
   </tr>
 </table>
