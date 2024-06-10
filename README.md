@@ -87,7 +87,7 @@
 
 |          주차           |                                              발표자                                           |        이슈 목록        |
 | :---------------------: | :-------------------------------------------------------------------------------------------: | :---------------------: |
-|          1주차          |                                                                                               |   [김주영](https://github.com/kbbookstudy/bookstudy/issues/1) /         |
+|          1주차          |   [정원영](https://github.com/cheongwonyoung) / [김현수](https://github.com/find11570)         |   [김주영](https://github.com/kbbookstudy/bookstudy/issues/1) /         |
 
 
 ---
