@@ -87,7 +87,8 @@
 
 |          주차           |                                              발표자                                           |        이슈 목록        |
 | :---------------------: | :-------------------------------------------------------------------------------------------: | :---------------------: |
-|          1주차          |                                                                                               |   [김주영](https://github.com/kbbookstudy/bookstudy/issues/1) /         |
+|          1주차          |   [정원영](https://github.com/cheongwonyoung) / [김현수](https://github.com/find11570)         |   [김주영](https://github.com/kbbookstudy/bookstudy/issues/14) / [김현수](https://github.com/kbbookstudy/bookstudy/issues/4)  /  [최한솔](https://github.com/kbbookstudy/bookstudy/issues/7)  /  [이준렬](https://github.com/kbbookstudy/bookstudy/issues/9)  /  [최가희](https://github.com/kbbookstudy/bookstudy/issues/12)  /  [정원영](https://github.com/kbbookstudy/bookstudy/issues/15)  |
+|          2주차          |   [정원영](https://github.com/cheongwonyoung) / [이준렬](https://github.com/lee-JunR)         |   [김주영](https://github.com/kbbookstudy/bookstudy/issues/23)  /  [최한솔](https://github.com/kbbookstudy/bookstudy/issues/18)  /  [이준렬](https://github.com/kbbookstudy/bookstudy/issues/20)  /  [최가희](https://github.com/kbbookstudy/bookstudy/issues/21)  /  [정원영](https://github.com/kbbookstudy/bookstudy/issues/22)  |
 
 
 ---
