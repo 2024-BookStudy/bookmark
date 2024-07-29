@@ -4,39 +4,39 @@
 
 ## 1장 - MySQL과 MariaDB 개요 
 MySQL과 MariaDB의 차이점
-- 오라클DB는 통합된 스토리지 하나를 공유하여 사용하는 방식이지만, MySQL은 물리적인 DB서버마다 독립적으로 스토리지를 할당하여 구성한다.
-- MySQL은 대부분 중첩 루프 조인 방식으로 조인을 수행하지만, 오라클에서는 정렬 병합 조인, 해시 조인 방식을 제공한다.
-- MySQL은 필요한 DBMS를 설정해 사용할 수 있다.
-  MySQL은 오라클과 달리 데이터를 저장하는 스토리지 엔진이라는 개념을 포함하므로 오픈소스 DBMS를 바로 꽂아서 사용할 수 있다.
-  각 스토리지 엔진을 통해 데이터가 저장되고 관리되는 방식을 정의할 수 있다. InnoDB, MyISAM, Memory, SCV, Archive 등의 스토리지 엔진이 있다.
-  또한, 다양한 플러그인을 통해 데이터베이스의 기능을 확장하거나 개선하는데 사용된다. 인증, 암호화, 압축, 감사 등 다양한 기능을 제공할 수 있다.
-  ex) 스토리지 엔진 변경
-  ```
-  -- InnoDB 스토리지 엔진을 사용하는 테이블 생성
-  CREATE TABLE example_innodb (
-      id INT PRIMARY KEY,
-      data VARCHAR(100)
-  ) ENGINE=InnoDB;
-  
-  -- MyISAM 스토리지 엔진을 사용하는 테이블 생성
-  CREATE TABLE example_myisam (
-      id INT PRIMARY KEY,
-      data VARCHAR(100)
-  ) ENGINE=MyISAM;
-  ```
-  ex) 플러그인 관리
-  ```
-  -- 플러그인 목록 보기
-  SHOW PLUGINS;
-  
-  -- 플러그인 설치
-  INSTALL PLUGIN plugin_name SONAME 'plugin_library.so';
-  
-  -- 플러그인 제거
-  UNINSTALL PLUGIN plugin_name;
-  ```
-  
-- MySQL은 상대적으로 낮은 메모리를 사용하여 저사양PC에서도 손쉽게 설치 및 개발이 가능하다.
+  - 오라클DB는 통합된 스토리지 하나를 공유하여 사용하는 방식이지만, MySQL은 물리적인 DB서버마다 독립적으로 스토리지를 할당하여 구성한다.
+  - MySQL은 대부분 중첩 루프 조인 방식으로 조인을 수행하지만, 오라클에서는 정렬 병합 조인, 해시 조인 방식을 제공한다.
+  - MySQL은 필요한 DBMS를 설정해 사용할 수 있다.
+      MySQL은 오라클과 달리 데이터를 저장하는 스토리지 엔진이라는 개념을 포함하므로 오픈소스 DBMS를 바로 꽂아서 사용할 수 있다.
+      각 스토리지 엔진을 통해 데이터가 저장되고 관리되는 방식을 정의할 수 있다. InnoDB, MyISAM, Memory, SCV, Archive 등의 스토리지 엔진이 있다.
+      또한, 다양한 플러그인을 통해 데이터베이스의 기능을 확장하거나 개선하는데 사용된다. 인증, 암호화, 압축, 감사 등 다양한 기능을 제공할 수 있다.
+          ex) 스토리지 엔진 변경
+          ```
+          -- InnoDB 스토리지 엔진을 사용하는 테이블 생성
+          CREATE TABLE example_innodb (
+              id INT PRIMARY KEY,
+              data VARCHAR(100)
+          ) ENGINE=InnoDB;
+          
+          -- MyISAM 스토리지 엔진을 사용하는 테이블 생성
+          CREATE TABLE example_myisam (
+              id INT PRIMARY KEY,
+              data VARCHAR(100)
+          ) ENGINE=MyISAM;
+          ```
+          ex) 플러그인 관리
+          ```
+          -- 플러그인 목록 보기
+          SHOW PLUGINS;
+          
+          -- 플러그인 설치
+          INSTALL PLUGIN plugin_name SONAME 'plugin_library.so';
+          
+          -- 플러그인 제거
+          UNINSTALL PLUGIN plugin_name;
+          ```
+    
+  - MySQL은 상대적으로 낮은 메모리를 사용하여 저사양PC에서도 손쉽게 설치 및 개발이 가능하다.
 
 - NULL 대체
   IFNULL / NVL
