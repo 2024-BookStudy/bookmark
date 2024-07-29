@@ -13,9 +13,6 @@
       <a href="https://github.com/kjy-asl"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/77871898?v=4"/>
     </th>
     <th align="center" width="150px">
-      <a href="https://github.com/find11570"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/74519181?v=4"/></a>
-    </th>
-    <th align="center" width="150px">
       <a href="https://github.com/lee-JunR"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/68640939?v=4"/></a>
     </th>
     <th align="center" width="150px">
@@ -25,15 +22,12 @@
       <a href="https://github.com/GaHee99"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/77230391?v=4"/></a>
     </th>
     <th align="center" width="150px">
-      <a href="https://github.com/chuseok"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/56007762?v=4"/></a>
+      <a href="https://github.com/ehdwoKIM"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/87058086?v=4"/></a>
     </th>
   </tr>
   <tr>
     <td align="center" width="150px">
       <a href="https://github.com/kjy-asl"><strong>주영</strong></a>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/find11570"><strong>현수</strong></a>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/lee-JunR"><strong>준렬</strong></a>
@@ -45,7 +39,7 @@
       <a href="https://github.com/GaHee99"><strong>가희</strong></a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/chuseok"><strong>한솔</strong></a>
+      <a href="https://github.com/ehdwoKIM"><strong>동재</strong></a>
     </td>
   </tr>
 </table>
@@ -78,7 +72,7 @@
 
 - PR 제목: 이름 / 주차 / 페이지 수
 - ```
-  최한솔 / N주차 / N장
+  최00 / N주차 / N장
   ```
 
 ---
@@ -89,6 +83,8 @@
 | :---------------------: | :-------------------------------------------------------------------------------------------: | :---------------------: |
 |          1주차          |   [정원영](https://github.com/cheongwonyoung) / [김현수](https://github.com/find11570)         |   [김주영](https://github.com/kbbookstudy/bookstudy/issues/14) / [김현수](https://github.com/kbbookstudy/bookstudy/issues/4)  /  [최한솔](https://github.com/kbbookstudy/bookstudy/issues/7)  /  [이준렬](https://github.com/kbbookstudy/bookstudy/issues/9)  /  [최가희](https://github.com/kbbookstudy/bookstudy/issues/12)  /  [정원영](https://github.com/kbbookstudy/bookstudy/issues/15)  |
 |          2주차          |   [정원영](https://github.com/cheongwonyoung) / [이준렬](https://github.com/lee-JunR)         |   [김주영](https://github.com/kbbookstudy/bookstudy/issues/23)  /  [최한솔](https://github.com/kbbookstudy/bookstudy/issues/18)  /  [이준렬](https://github.com/kbbookstudy/bookstudy/issues/20)  /  [최가희](https://github.com/kbbookstudy/bookstudy/issues/21)  /  [정원영](https://github.com/kbbookstudy/bookstudy/issues/22)  |
+|          3주차          |   [김주영](https://github.com/kjy-asl) / [최가희](https://github.com/GaHee99)         |   [김주영](https://github.com/kbbookstudy/bookstudy/issues/32)  /  [김현수](https://github.com/kbbookstudy/bookstudy/issues/31)  /  [이준렬](https://github.com/kbbookstudy/bookstudy/issues/25)  /  [최가희](https://github.com/kbbookstudy/bookstudy/issues/28)  /  [정원영](https://github.com/kbbookstudy/bookstudy/issues/27)  |
+|          5주차          |   [이준렬](https://github.com/lee-JunR) / [김현수](https://github.com/find11570)         |   [김주영](https://github.com/kbbookstudy/bookstudy/issues/58)  /  [김현수](https://github.com/kbbookstudy/bookstudy/issues/54)  /  [이준렬](https://github.com/kbbookstudy/bookstudy/issues/52)  /  [최가희](https://github.com/kbbookstudy/bookstudy/issues/56)  /  [정원영](https://github.com/kbbookstudy/bookstudy/issues/48)  /  [최가희](https://github.com/kbbookstudy/bookstudy/issues/50)  |
 
 
 ---
@@ -97,4 +93,5 @@
 
 |          기간           |                                              책                                               |        저자        |   출판사   |
 | :---------------------: | :-------------------------------------------------------------------------------------------: | :----------------: | :--------: |
-| 2024.05.31 ~     .  .   |               [클린 코드](https://product.kyobobook.co.kr/detail/S000001032980)                |   로버트 C. 마틴    |  인사이트  |
+| 2024.05.31 ~  2024.07.15  |               [클린 코드](https://product.kyobobook.co.kr/detail/S000001032980)                |   로버트 C. 마틴    |  인사이트  |
+| 2024.07.22 ~    |               [클린 코드](https://product.kyobobook.co.kr/detail/S000001032980)                |   양바른    |  한빛미디어  |
