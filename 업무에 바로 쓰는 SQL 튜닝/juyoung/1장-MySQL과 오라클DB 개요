@@ -24,7 +24,17 @@ MySQL과 MariaDB의 차이점
       data VARCHAR(100)
   ) ENGINE=MyISAM;
   ```
-
+  ex) 플러그인 관리
+  ```
+  -- 플러그인 목록 보기
+  SHOW PLUGINS;
+  
+  -- 플러그인 설치
+  INSTALL PLUGIN plugin_name SONAME 'plugin_library.so';
+  
+  -- 플러그인 제거
+  UNINSTALL PLUGIN plugin_name;
+  ```
   
 - MySQL은 상대적으로 낮은 메모리를 사용하여 저사양PC에서도 손쉽게 설치 및 개발이 가능하다.
 
