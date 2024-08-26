@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="166f7895-e525-43e3-8bd4-b83a0fa5dfde" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/업무에 바로 쓰는 SQL 튜닝/동재/4장_~194p.md" beforeDir="false" afterPath="$PROJECT_DIR$/업무에 바로 쓰는 SQL 튜닝/동재/4장_~194p.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <workItem from="1722256644322" duration="2806000" />
       <workItem from="1722847771511" duration="9768000" />
       <workItem from="1724058019512" duration="13178000" />
-      <workItem from="1724645423484" duration="1663000" />
+      <workItem from="1724645423484" duration="11473000" />
     </task>
     <servers />
   </component>
